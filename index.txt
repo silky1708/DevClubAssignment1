@@ -1,0 +1,2 @@
+//this is index.txt
+Devclub is a platform for novice and budding developers to try their hand at new things.
